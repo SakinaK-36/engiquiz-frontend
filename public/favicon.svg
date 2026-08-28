@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="2" y="2" width="60" height="60" fill="#F3F5F1" stroke="#14213D" stroke-width="4"/>
+  <text
+    x="32"
+    y="42"
+    font-family="'Space Grotesk', 'Arial', sans-serif"
+    font-size="30"
+    font-weight="700"
+    fill="#14213D"
+    text-anchor="middle"
+  >Q</text>
+  <path d="M2 2 L10 2 M2 2 L2 10" stroke="#2455A4" stroke-width="4" fill="none"/>
+  <path d="M62 2 L54 2 M62 2 L62 10" stroke="#2455A4" stroke-width="4" fill="none"/>
+  <path d="M2 62 L10 62 M2 62 L2 54" stroke="#2455A4" stroke-width="4" fill="none"/>
+  <path d="M62 62 L54 62 M62 62 L62 54" stroke="#2455A4" stroke-width="4" fill="none"/>
+</svg>
